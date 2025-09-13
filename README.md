@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">✨ Hey, I'm Vaibhav Shingne ✨</h1>
 
-<!--
-**vsshingne/vsshingne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electronics+Engineer+🚀;Embedded+Systems+⚡;AI%2FML+%26+Edge+AI+🤖;Linux+Kernel+%26+Cloud+☁️;Always+Exploring+%26+Building+💡" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Me -->
+## 👨‍💻 About Me
+```yaml
+🎓 B.Tech Electronics Engineering @ Walchand College of Engineering  
+🧑‍💻 Passionate about Embedded Systems, AI/ML, and Edge Computing  
+⚙️ Experienced with NVIDIA Jetson, Raspberry Pi, YOLOv8, TensorRT, OpenCV  
+☁️ Skilled in GCP, Firebase, Docker, Kubernetes, GitHub Actions  
+🐧 Exploring Linux Kernel Development through The Linux Foundation Mentorship  
