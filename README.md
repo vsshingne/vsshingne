@@ -1,12 +1,6 @@
 <!-- Typing animation header -->
 <h1 align="center">Hi, I'm Vaibhav Shingne 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electronics+Engineer+🚀;Embedded+Systems+⚡;AI%2FML+%26+Edge+AI+🤖;Linux+Kernel+%26+Cloud+☁️;Always+Exploring+%26+Building+💡" />
-</p>
-
----
-
 ## 🛠️ Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,embeddedc,js,kotlin,linux,docker,git,github,raspberrypi,arduino,react,firebase,gcp,mongodb,kubernetes&perline=8" />
