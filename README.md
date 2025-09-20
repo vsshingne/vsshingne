@@ -19,7 +19,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,kotlin,react,flask,docker,kubernetes,gcp,firebase,git,github,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,kotlin,react,flask,docker,kubernetes,gcp,firebase,git,github,linux,rasberrypi,tensorrt,mongodb&perline=6" />
 </p>
 
 ---
