@@ -31,10 +31,11 @@
   <img src="https://leetcard.jacoblin.cool/VSPRIME?theme=dark&font=baloo&ext=heatmap,contest" height="300"/>
 </p>
 
-- ✅ Shows **solved problems breakdown**  
-- ✅ Shows **active days calendar (heatmap)**  
-- ✅ Shows **contest rating graph**  
-- ✅ Shows **badges (50, 100, 200 Days, LeetCode 75)**  
+<h2 align="center">🏆 Leetcode Achievements</h2>
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=VSPRIME&theme=github-dark" alt="LeetCode Badges"/>
+</p>
+
 
 ---
 
