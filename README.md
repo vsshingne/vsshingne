@@ -56,5 +56,5 @@
   <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/vaibhavshingne/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/VSPRIME"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/vaibhavshingne66"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
