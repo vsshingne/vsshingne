@@ -2,9 +2,9 @@
   Hi, I'm Vaibhav Shingne 👋  
 </h1>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI+%7C+ML+Engineer;Embedded+Systems+Developer;Linux+Kernel+Explorer;Competitive+Programmer;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
