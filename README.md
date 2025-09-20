@@ -1,62 +1,84 @@
-<!-- Typing animation header -->
-<h1 align="center">Hi, I'm Vaibhav Shingne 👋</h1>
+<h1 align="center">
+  Hi, I'm Vaibhav Shingne 👋  
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electronics+Engineer+🚀;Embedded+Systems+⚡;AI%2FML+%26+Edge+AI+🤖;Linux+Kernel+%26+Cloud+☁️;Always+Exploring+%26+Building+💡" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%7C+ML+Enthusiast;Embedded+Systems+Developer;Linux+Kernel+Explorer;Competitive+Programmer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🧑‍💻 About Me
+- 🎓 B.Tech in Electronics Engineering @ WCE Sangli (2023–2027)  
+- 🔭 Currently: **Linux Kernel Mentorship (Fall 2025, Linux Foundation)**  
+- 🌱 Exploring: **Edge AI | MLOps | Cloud-Native Dev**  
+- 💡 Motto: *Build, Break, Rebuild Smarter*  
+
+---
+
+## 🚀 Skills & Tools  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,embeddedc,js,kotlin,linux,docker,git,github,raspberrypi,arduino,react,firebase,gcp,mongodb,kubernetes&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,kotlin,react,flask,docker,kubernetes,gcp,firebase,git,github,linux&perline=6" />
 </p>
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Winner** – Roboholic ’25 (Robot Combat Competition)  
-- 🎖️ **Finalist** – IEEE TechSangam ’25 Hackathon  
-- ⭐ **CodeChef 3★ (1741)**  
-- 🔥 **LeetCode 200 Days Badge + LeetCode 75 Badge**  
-- 📜 Certified: Linux Kernel Dev (LFD103), Cloud Infrastructure (LFS151), DSA by GFG  
+## 📊 GitHub Stats  
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsshingne&show_icons=true&theme=tokyonight&count_private=true" height="160px"/>
-  <img src="https://streak-stats.demolab.com?user=vsshingne&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vsshingne&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsshingne&theme=tokyonight" height="150"/>
 </p>
 
-<!-- Snake contribution graph -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsshingne&theme=react-dark" />
 </p>
 
 ---
 
-## 🔢 LeetCode Stats
+## 🎯 Competitive Programming  
+
+### 🔹 LeetCode  
 <p align="center">
-  <!-- Replace the username if needed, you can use ReadmeCodeGen or any other provider -->
-  ![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/VSPRIME?theme=dark&font=Fira%20Code&template=minimal&acceptance=true)
+  <img src="https://leetcard.jacoblin.cool/VSPRIME?ext=heatmap" height="250"/>
+</p>
+
+- Shows **active days calendar** + **solved problems breakdown**  
+- Add `?theme=dark&font=baloo` for styling  
+
+### 🔹 CodeChef  
+<p align="center">
+  <img src="https://codechef-stats-api.vercel.app/fine_fest_11?theme=dark" height="250"/>
+</p>
+
+- Displays **contest rating graph, global rank, and stars**  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 Winner – Roboholic ‘25 (Robot Combat Competition)  
+- 🥈 Finalist – IEEE TechSangam ‘25 (National Hackathon)  
+- ⭐ LeetCode Badges: 50, 100, 200 Days · LeetCode 75  
+- ⭐ CodeChef **3★ (Max: 1741)**  
+
+---
+
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vsshingne/vsshingne/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Profiles
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-shingne-3a765828a/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef" /></a>
-  <a href="https://www.geeksforgeeks.org/user/vaibhavshingne/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://vsprime.host20.uk/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-</p>
+## 🔗 Connect with Me  
 
----
-
-<!-- Wave footer animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer"/>
+  <a href="https://vsprime.host20.uk/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaibhav-shingne-3a765828a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
