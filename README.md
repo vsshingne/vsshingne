@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%7C+ML+Enthusiast;Embedded+Systems+Developer;Linux+Kernel+Explorer;Competitive+Programmer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI+%7C+ML+Engineer;Embedded+Systems+Developer;Linux+Kernel+Explorer;Competitive+Programmer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 - 🎓 B.Tech in Electronics Engineering @ WCE Sangli (2023–2027)  
 - 🔭 Currently: **Linux Kernel Mentorship (Fall 2025, Linux Foundation)**  
 - 🌱 Exploring: **Edge AI | MLOps | Cloud-Native Dev**  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Skills & Tools  
+## 🚀 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,js,kotlin,react,flask,docker,kubernetes,gcp,firebase,git,github,linux&perline=6" />
@@ -24,35 +24,22 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsshingne&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsshingne&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsshingne&theme=react-dark" />
-</p>
-
----
-
 ## 🎯 Competitive Programming  
 
-### 🔹 LeetCode  
+### 🔹 LeetCode Profile  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/VSPRIME?ext=heatmap" height="250"/>
+  <img src="https://leetcard.jacoblin.cool/VSPRIME?theme=dark&font=baloo&ext=contest" height="300"/>
 </p>
 
-- Shows **active days calendar** + **solved problems breakdown**  
-- Add `?theme=dark&font=baloo` for styling  
+- ✅ Shows **solved problems breakdown, active days calendar, and contest rating**  
+- ✅ Supports themes → try `light`, `dark`, `unicorn`, etc.  
 
-### 🔹 CodeChef  
+### 🔹 CodeChef Profile  
 <p align="center">
   <img src="https://codechef-stats-api.vercel.app/fine_fest_11?theme=dark" height="250"/>
 </p>
 
-- Displays **contest rating graph, global rank, and stars**  
+- ✅ Displays **contest rating graph, stars, and rank**  
 
 ---
 
@@ -78,7 +65,7 @@
 <p align="center">
   <a href="https://vsprime.host20.uk/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vaibhav-shingne-3a765828a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
