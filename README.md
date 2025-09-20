@@ -28,18 +28,13 @@
 
 ### 🔹 LeetCode Profile  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/VSPRIME?theme=dark&font=baloo&ext=contest" height="300"/>
+  <img src="https://leetcard.jacoblin.cool/VSPRIME?theme=dark&font=baloo&ext=heatmap,contest" height="300"/>
 </p>
 
-- ✅ Shows **solved problems breakdown, active days calendar, and contest rating**  
-- ✅ Supports themes → try `light`, `dark`, `unicorn`, etc.  
-
-### 🔹 CodeChef Profile  
-<p align="center">
-  <img src="https://codechef-stats-api.vercel.app/fine_fest_11?theme=dark" height="250"/>
-</p>
-
-- ✅ Displays **contest rating graph, stars, and rank**  
+- ✅ Shows **solved problems breakdown**  
+- ✅ Shows **active days calendar (heatmap)**  
+- ✅ Shows **contest rating graph**  
+- ✅ Shows **badges (50, 100, 200 Days, LeetCode 75)**  
 
 ---
 
@@ -52,20 +47,11 @@
 
 ---
 
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vsshingne/vsshingne/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🔗 Connect with Me  
 
 <p align="center">
   <a href="https://vsprime.host20.uk/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vaibhav-shingne-3a765828a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
