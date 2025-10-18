@@ -69,8 +69,9 @@
   <img src="https://leetcard.jacoblin.cool/VSPRIME?ext=heatmap&theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
 </p>
 <!-- kevzpeter -->
-![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vsprime&filter=annual&border=no-border&theme=github-dark)
-
+<div align="center">
+<img src="[https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&filter=annual](https://leetcode-badge-showcase.vercel.app/api{?username,animated,theme,filter,border})" />
+</div>
 ---
 
 ### 📊 GitHub Stats  
