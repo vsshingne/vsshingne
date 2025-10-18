@@ -22,13 +22,13 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,kotlin" height="80" alt="Languages" />
   <br/>
   <!-- Core Concepts -->
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,gcp,firebase" height="80" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,gcp,firebase,azure" height="80" alt="Tools" />
   <br/>
   <!-- Frameworks & DB -->
-  <img src="https://skillicons.dev/icons?i=flask,react,mongodb,nodejs" height="80" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=flask,react,mongodb,nodejs,expressjs" height="80" alt="Frameworks" />
   <br/>
   <!-- Embedded & Hardware -->
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="80" alt="Embedded Hardware" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,jetson,tensorrt" height="80" alt="Embedded Hardware" />
 </p>
 
 ---
