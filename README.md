@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <a href="https://vsprime.host20.uk/">Vaibhav Shingne</a>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F5FF&center=true&vCenter=true&width=600&lines=🚀+Electronics+Engineer+%7C+AI+%26+ML+Developer;⚙️+Linux+Kernel+%26+Embedded+Systems+Enthusiast;☁️+Cloud+%26+MLOps+Learner;💡+Building+AI+at+the+Edge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Electronics+Engineer+%7C+AI+%26+ML+Developer;⚙️+Linux+Kernel+%26+Embedded+Systems+Enthusiast;☁️+Cloud+%26+MLOps+Learner;💡+Building+AI+at+the+Edge" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,28 +9,27 @@
 ### 🧠 About Me  
 🎓 **B.Tech in Electronics Engineering** (Walchand College of Engineering, Sangli)  
 💡 Passionate about **AI/ML, Embedded Systems, Edge AI, and Cloud Integration**  
-🔍 Always exploring **Linux Kernel, System Programming, and Scalable AI Systems**  
+🔍 Exploring **Linux Kernel, System Programming, and Scalable AI Systems**  
 📍 Currently: **Linux Kernel Fall 2025 Mentorship – The Linux Foundation**  
 🏆 **AIML Lead @ WCE MLSC**  
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+### 🛠️ Tech Stack  
 
-#### 💻 Languages  
-C | C++ | Python | JavaScript | Kotlin | Embedded C  
-
-#### ⚙️ Core Concepts  
-Data Structures & Algorithms | Operating Systems | Computer Networks | OOP | DBMS | Linux Kernel Development  
-
-#### 🧰 Tools & Platforms  
-Git & GitHub | Docker | Firebase | Google Cloud | Kubernetes | GitHub Actions  
-
-#### 🧩 Frameworks & Databases  
-Flask | REST APIs | React.js | MongoDB  
-
-#### 🔌 Embedded & Hardware  
-NVIDIA Jetson | Raspberry Pi | LPC2148 | 8051 | Arduino | TensorRT  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin,embeddedc" height="80" alt="Languages" />
+  <br/>
+  <!-- Core Concepts -->
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,gcp,firebase" height="80" alt="Tools" />
+  <br/>
+  <!-- Frameworks & DB -->
+  <img src="https://skillicons.dev/icons?i=flask,react,mongodb,nodejs" height="80" alt="Frameworks" />
+  <br/>
+  <!-- Embedded & Hardware -->
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="80" alt="Embedded Hardware" />
+</p>
 
 ---
 
@@ -64,6 +63,14 @@ NVIDIA Jetson | Raspberry Pi | LPC2148 | 8051 | Arduino | TensorRT
 
 ---
 
+### 🧮 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VSPRIME?ext=heatmap&theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
@@ -73,6 +80,12 @@ NVIDIA Jetson | Raspberry Pi | LPC2148 | 8051 | Arduino | TensorRT
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsshingne&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vsshingne&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ---
