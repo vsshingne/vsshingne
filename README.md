@@ -22,15 +22,13 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,kotlin" height="80" alt="Languages" />
   <br/>
   <!-- Core Concepts -->
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,gcp,firebase,azure" height="80" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,gcp,firebase,androidstudio,azure,ubuntu" height="80" alt="Tools" />
   <br/>
   <!-- Frameworks & DB -->
-  <img src="https://skillicons.dev/icons?i=flask,react,mongodb,nodejs,expressjs" height="80" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=flask,react,mongodb,nodejs,expressjs,flutter" height="80" alt="Frameworks" />
   <br/>
   <!-- Embedded & Hardware -->
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="80" alt="Embedded Hardware" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/NVIDIA_logo.svg" height="65" alt="NVIDIA Jetson" title="NVIDIA Jetson" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="65" alt="NVIDIA TensorRT" title="NVIDIA TensorRT" />
 </p>
 
 ---
