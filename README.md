@@ -1,61 +1,83 @@
-<h1 align="center">
-  Hi, I'm Vaibhav Shingne 👋  
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI+%7C+ML+Engineer;Embedded+Systems+Developer;Linux+Kernel+Explorer;Competitive+Programmer;Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
-
----
-
-## 🧑‍💻 About Me  
-- 🎓 B.Tech in Electronics Engineering @ WCE Sangli (2023–2027)  
-- 🔭 Currently: **Linux Kernel Mentorship (Fall 2025, Linux Foundation)**  
-- 🌱 Exploring: **Edge AI | MLOps | Cloud-Native Dev**  
-- 💡 Motto: *Build, Break, Rebuild Smarter*  
-
----
-
-## 🚀 Tech Stack  
+<h1 align="center">👋 Hey there, I'm <a href="https://vsprime.host20.uk/">Vaibhav Shingne</a>!</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,kotlin,react,flask,docker,kubernetes,gcp,firebase,git,github,linux,rasberrypi,tensorrt,mongodb&perline=6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00F5FF&center=true&vCenter=true&width=600&lines=🚀+Electronics+Engineer+%7C+AI+%26+ML+Developer;⚙️+Linux+Kernel+%26+Embedded+Systems+Enthusiast;☁️+Cloud+%26+MLOps+Learner;💡+Building+AI+at+the+Edge" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎯 Competitive Programming  
-
-### 🔹 LeetCode Profile  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/VSPRIME?theme=dark&font=baloo&ext=heatmap,contest" height="300"/>
-</p>
-
-<h2 align="center">🏆 Leetcode Achievements</h2>
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=VSPRIME&theme=github-dark" alt="LeetCode Badges"/>
-</p>
-
+### 🧠 About Me  
+🎓 **B.Tech in Electronics Engineering** (Walchand College of Engineering, Sangli)  
+💡 Passionate about **AI/ML, Embedded Systems, Edge AI, and Cloud Integration**  
+🔍 Always exploring **Linux Kernel, System Programming, and Scalable AI Systems**  
+📍 Currently: **Linux Kernel Fall 2025 Mentorship – The Linux Foundation**  
+🏆 **AIML Lead @ WCE MLSC**  
 
 ---
 
-## 🏆 Achievements  
+### 🛠️ Tech Stack & Tools  
 
-- 🥇 Winner – Roboholic ‘25 (Robot Combat Competition)  
-- 🥈 Finalist – IEEE TechSangam ‘25 (National Hackathon)  
-- ⭐ LeetCode Badges: 50, 100, 200 Days · LeetCode 75  
-- ⭐ CodeChef **3★ (Max: 1741)**  
+#### 💻 Languages  
+C | C++ | Python | JavaScript | Kotlin | Embedded C  
+
+#### ⚙️ Core Concepts  
+Data Structures & Algorithms | Operating Systems | Computer Networks | OOP | DBMS | Linux Kernel Development  
+
+#### 🧰 Tools & Platforms  
+Git & GitHub | Docker | Firebase | Google Cloud | Kubernetes | GitHub Actions  
+
+#### 🧩 Frameworks & Databases  
+Flask | REST APIs | React.js | MongoDB  
+
+#### 🔌 Embedded & Hardware  
+NVIDIA Jetson | Raspberry Pi | LPC2148 | 8051 | Arduino | TensorRT  
 
 ---
 
-## 🔗 Connect with Me  
+### 🏅 Achievements  
+🏆 **Winner – Roboholic ‘25 (Robot Combat)**  
+⚡ **IEEE TechSangam ‘25 Finalist**  
+💻 **Linux Kernel Fall 2025 Mentorship, Linux Foundation**  
+📈 **CodeChef 3★ (Max 1741)**  
+🧩 **LeetCode 200 Days & LeetCode 75 Badge**  
+🎯 **6× Daily Coding Challenge Winner (Apr–Aug 2025)**  
+
+---
+
+### 📚 Certifications  
+📜 [Data Structures & Algorithms – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/e9ea85d327b4e881db960c70dfdd504e.pdf)  
+📜 [LFS151 – Cloud Infrastructure Technologies – Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8a20c5fd-6c15-493a-94fc-b8e82ca8ee1e-vaibhav-shingne-bc17adf8-371f-4a2f-b483-dae60d13d4cb-certificate.pdf)  
+📜 [LFD103 – Linux Kernel Development – Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8a20c5fd-6c15-493a-94fc-b8e82ca8ee1e-vaibhav-shingne-b5c9e491-da03-4449-bfa7-52e5e530f244-certificate.pdf)  
+
+---
+
+### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://vsprime.host20.uk/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vaibhav-shingne-3a765828a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/vaibhavshingne/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/vaibhavshingne66"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaibhav-shingne-3a765828a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/vaibhavshingne/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+  <a href="https://vsprime.host20.uk/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vsshingne&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vsshingne&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsshingne&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <i>✨ "Building intelligent systems that connect the real world with AI!" ✨</i>
 </p>
