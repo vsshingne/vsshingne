@@ -19,7 +19,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin" height="80" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,kotlin" height="80" alt="Languages" />
   <br/>
   <!-- Core Concepts -->
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,gcp,firebase" height="80" alt="Tools" />
