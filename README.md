@@ -68,9 +68,8 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/VSPRIME?ext=heatmap&theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
 </p>
-<div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=vsprime&filter=annual" />
-</div>
+<!-- kevzpeter -->
+![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vsprime&filter=annual&border=no-border&theme=github-dark)
 
 ---
 
