@@ -37,9 +37,9 @@
 🏆 **Winner – Roboholic ‘25 (Robot Combat)**  
 ⚡ **IEEE TechSangam ‘25 Finalist**  
 💻 **Linux Kernel Fall 2025 Mentorship, Linux Foundation**  
-📈 **CodeChef 3★ (Max 1741)**  
+📈 **CodeChef 3★ (Max 1793)**  
 🧩 **LeetCode 200 Days & LeetCode 75 Badge**  
-🎯 **6× Daily Coding Challenge Winner (Apr–Aug 2025)**  
+🎯 **6× Daily Coding Challenge Winner (Apr–Sep 2025)**  
 
 ---
 
