@@ -28,7 +28,9 @@
   <img src="https://skillicons.dev/icons?i=flask,react,mongodb,nodejs,expressjs" height="80" alt="Frameworks" />
   <br/>
   <!-- Embedded & Hardware -->
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,jetson,tensorrt" height="80" alt="Embedded Hardware" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="80" alt="Embedded Hardware" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/NVIDIA_logo.svg" height="65" alt="NVIDIA Jetson" title="NVIDIA Jetson" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="65" alt="NVIDIA TensorRT" title="NVIDIA TensorRT" />
 </p>
 
 ---
