@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+
 <h1 align="center">👋 Hey there, I'm <a href="https://vsprime.host20.uk/">Vaibhav Shingne</a>!</h1>
 
 <p align="center">
@@ -97,5 +99,4 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   <i>✨ "Building intelligent systems that connect the real world with AI!" ✨</i>
 </p>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
