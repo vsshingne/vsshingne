@@ -10,7 +10,6 @@
 🎓 **B.Tech in Electronics Engineering** (Walchand College of Engineering, Sangli)  
 💡 Passionate about **AI/ML, Embedded Systems, Edge AI, and Cloud Integration**  
 🔍 Exploring **Linux Kernel, System Programming, and Scalable AI Systems**  
-📍 Currently: **Linux Kernel Fall 2025 Mentorship – The Linux Foundation**  
 🏆 **AIML Lead @ WCE MLSC**  
 
 ---
