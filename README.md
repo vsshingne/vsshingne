@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-
 <h1 align="center">👋 Hey there, I'm <a href="https://vsprime.host20.uk/">Vaibhav Shingne</a>!</h1>
 
 <p align="center">
@@ -60,7 +58,7 @@
   <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/vaibhavshingne/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
-  <a href="https://vsprime.host20.uk/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-next-dun-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
