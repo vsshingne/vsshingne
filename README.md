@@ -42,13 +42,6 @@
 
 ---
 
-### 📚 Certifications  
-📜 [Data Structures & Algorithms – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/e9ea85d327b4e881db960c70dfdd504e.pdf)  
-📜 [LFS151 – Cloud Infrastructure Technologies – Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8a20c5fd-6c15-493a-94fc-b8e82ca8ee1e-vaibhav-shingne-bc17adf8-371f-4a2f-b483-dae60d13d4cb-certificate.pdf)  
-📜 [LFD103 – Linux Kernel Development – Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8a20c5fd-6c15-493a-94fc-b8e82ca8ee1e-vaibhav-shingne-b5c9e491-da03-4449-bfa7-52e5e530f244-certificate.pdf)  
-
----
-
 ### 🌐 Connect With Me  
 
 <p align="center">
