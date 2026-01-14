@@ -37,7 +37,7 @@
 ⚡ **IEEE TechSangam ‘25 Finalist**  
 💻 **Linux Kernel Fall 2025 Mentorship, Linux Foundation**  
 📈 **CodeChef 3★ (Max 1793)**  
-🧩 **LeetCode 200 Days & LeetCode 75 Badge**  
+♞ **Knight @LeetCode (Max.1849)**  
 🎯 **6× Daily Coding Challenge Winner (Apr–Sep 2025)**  
 
 ---
