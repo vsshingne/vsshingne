@@ -38,7 +38,7 @@
 💻 **Linux Kernel Fall 2025 Mentorship, Linux Foundation**  
 📈 **CodeChef 3★ (Max 1793)**  
 ♞ **Knight @LeetCode (Max.1849)**  
-🎯 **6× Daily Coding Challenge Winner (Apr–Sep 2025)**  
+🎯 **1300+ Problems solved across all platforms**  
 
 ---
 
