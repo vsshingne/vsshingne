@@ -58,33 +58,33 @@
 ### 🧮 LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/VSPRIME?ext=heatmap&theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/vsprime2004?ext=heatmap&theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
 </p>
 <!-- kevzpeter -->
 <div align="center">
 <img src="[https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&filter=annual](https://leetcode-badge-showcase.vercel.app/api{?username,animated,theme,filter,border})" />
 </div>
 ---
-
+<!--
 ### 📊 GitHub Stats  
-
+--
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vsshingne&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vsshingne&theme=tokyonight" />
 </p>
-
+--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsshingne&theme=react-dark&hide_border=true&area=true" />
 </p>
-
+<
 ---
 
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vsshingne&theme=onestar&no-frame=true&margin-w=10" />
 </p>
-
 ---
-
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   <i>✨ "Building intelligent systems that connect the real world with AI!" ✨</i>
