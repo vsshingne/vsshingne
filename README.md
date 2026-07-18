@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-shingne-3a765828a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/VSPRIME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/vsprime2004/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/fine_fest_11"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/vaibhavshingne/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://github.com/vsshingne"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
