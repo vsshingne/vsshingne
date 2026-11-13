@@ -282,7 +282,7 @@ Across platforms
 <a href="https://github.com/vsshingne">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://vsprime.host20.uk/">
+<a href="https://portfolio-next-dun-eight.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://leetcode.com/u/vsprime2004/">
